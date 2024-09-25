@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zekiyerdem
-- 👀 I’m a Data Scientist
+- 👀 I’m a Machine Learning Engineer
 - 🌱 I’m currently learning Google VertexAI
 - 🌱 Currently graduating from UofT DSI program
 - 💞️ I’m looking to collaborate on GenAI models
