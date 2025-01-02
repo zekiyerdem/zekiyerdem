@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zekiyerdem
 - 👀 I’m a Machine Learning Engineer
 - 🌱 I’m currently learning Google VertexAI
-- 🌱 Currently graduating from UofT DSI program
+- 🌱 Graduated from UofT DSI program
 - 💞️ I’m looking to collaborate on GenAI models
 - 📫 How to reach me www.linkedin.com/in/zekiye-erdem-ca
 - 😄 Pronouns: She/Her
